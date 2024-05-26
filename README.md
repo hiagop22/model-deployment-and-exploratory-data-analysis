@@ -11,5 +11,5 @@ The README files are inside each folder, there you can find the specific descrip
 - [Model Deployment Demonstration](02-MODEL_DEPLOYMENT/README.md)
 - [Exploratory Data Analysis](03-EXPLORATORY_DATA_ANALYSIS/README.md)
 
-**NOTE**.: Regarding the graphs within the exploratory data analysis problem, please open the [HTML](03-EXPLORATORY_DATA_ANALYSIS/eda_movie_ratings.html) file instead of Jupyter Notebook to view them.
+**NOTE**.: Regarding the graphs within the exploratory data analysis problem, please download the [HTML](03-EXPLORATORY_DATA_ANALYSIS/eda_movie_ratings.html) file instead of Jupyter Notebook to view them.
 GitHub does not support viewing the interactive graphs.
