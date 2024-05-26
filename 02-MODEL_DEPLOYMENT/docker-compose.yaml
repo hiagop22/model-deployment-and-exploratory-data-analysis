@@ -1,0 +1,29 @@
+services:
+  api:
+    build: api
+    container_name: api
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+    logging:
+      driver: "json-file"
+      options:
+        max-file: "1"
+        max-size: "100k"
+    
+  nginx:
+    image: nginx:alpine
+    container_name: nginx
+    ports:
+      - "80:80"
+    restart: unless-stopped
+    volumes:
+      - ./nginx:/etc/nginx:ro
+    depends_on:
+      - api
+    logging:
+      driver: "json-file"
+      options:
+        max-file: "1"
+        max-size: "100k"
+    

@@ -8,6 +8,6 @@ This is the main README file for the project. It provides an overview of the pro
 
 The README files are inside each folder, there you can find the specific description for their respective project:
 
-- [Model Deployment Demonstration](02_MODEL-DEPLOYMENT/README.md)
-- [Exploratory Data Analysis](03_EXPLORATORY-DATA-ANALYSIS/README.md)
+- [Model Deployment Demonstration](02-MODEL_DEPLOYMENT/README.md)
+- [Exploratory Data Analysis](03-EXPLORATORY_DATA_ANALYSIS/README.md)
 
