@@ -6,5 +6,7 @@ This is the main README file for the project. It provides an overview of the pro
 
 ## Subdirectories
 
-- [Model-Deployment-Demonstration](02 - MODEL DEPLOYMENT DEMONSTRATION/README.md)
-- [Exploratory-Data-Analysis](03 - EXPLORATORY DATA ANALYSIS DEMONSTRATION/README.md)
+The README files are inside each folder, there you can find the specific description for their respective project:
+
+- [Model Deployment Demonstration](02_MODEL-DEPLOYMENT/README.md)
+- [Exploratory Data Analysis](03_EXPLORATORY-DATA-ANALYSIS/README.md)
